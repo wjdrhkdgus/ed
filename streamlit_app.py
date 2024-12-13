@@ -80,55 +80,82 @@ st.markdown("""
 content_data = {
     labels[0]: {
         'images': [
-            "레드불 음료수의 카페인 함량은 62.5mg입니다",
-            "대한민국 성인의 카페인 섭취 권고량은 하루 300~400mg입니",
-            "https://via.placeholder.com/300?text=Label1_Image3"
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMWhkEXENbdrz0B3g5mXmgDooTHpRj94Isug&s",
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
             "https://www.youtube.com/watch?v=dsnEPbYrims",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
         ],
         'texts': [
-            "Label 1 관련 첫 번째 텍스트 내용입니다.",
-            "Label 1 관련 두 번째 텍스트 내용입니다.",
-            "Label 1 관련 세 번째 텍스트 내용입니다."
+            "레드불 음료수의 카페인 함량은 62.5mg입니다",
+            "대한민국 성인의 카페인 섭취 권고량은 하루 300~400mg입니다",
         ]
     },
     labels[1]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label2_Image1",
-            "https://via.placeholder.com/300?text=Label2_Image2",
-            "https://via.placeholder.com/300?text=Label2_Image3"
+            "https://img.danawa.com/prod_img/500000/800/560/img/16560800_1.jpg?_v=20220310135648",
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
+            "https://www.youtube.com/watch?v=dsnEPbYrims",
         ],
         'texts': [
-            "Label 2 관련 첫 번째 텍스트 내용입니다.",
-            "Label 2 관련 두 번째 텍스트 내용입니다.",
-            "Label 2 관련 세 번째 텍스트 내용입니다."
+            "레쓰비의 카페인 함량은 103mg입니다.",
+            "대한민국 성인의 카페인 섭취 권고량은 하루 300~400mg입니다",
         ]
     },
     labels[2]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label3_Image1",
-            "https://via.placeholder.com/300?text=Label3_Image2",
-            "https://via.placeholder.com/300?text=Label3_Image3"
+            "https://img.danawa.com/prod_img/500000/860/779/img/3779860_1.jpg?_v=20220303102552",
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
+            "https://www.youtube.com/watch?v=dsnEPbYrims",
         ],
         'texts': [
-            "Label 3 관련 첫 번째 텍스트 내용입니다.",
-            "Label 3 관련 두 번째 텍스트 내용입니다.",
-            "Label 3 관련 세 번째 텍스트 내용입니다."
+            "몬스터 에너지 음료수의 카페인 함량은 100mg입니다.",
+            "대한민국 성인의 카페인 섭취 권고량은 하루 300~400mg입니다",
+        ]
+    },
+    labels[3]: {
+        'images': [
+            "https://img.danawa.com/prod_img/500000/870/030/img/17030870_1.jpg?_v=20220512102844",
+        ],
+        'videos': [
+            "https://www.youtube.com/watch?v=dsnEPbYrims",
+        ],
+        'texts': [
+            "스누피 우의 카페인 함량은 237mg입니다",
+            "대한민국 성인의 카페인 섭취 권고량은 하루 300~400mg입니다",
+        ]
+    },
+    labels[4]: {
+        'images': [
+            "https://sitem.ssgcdn.com/63/65/82/item/1000558826563_i1_750.jpg",
+           
+        ],
+        'videos': [
+            "https://www.youtube.com/watch?v=dsnEPbYrims",
+           
+        ],
+        'texts': [
+            "스타벅스 더블샷 에스프레소&크림의 카페인 함량은 103mg입니다.",
+            "대한민국 성인의 카페인 섭취 권고량은 하루 300~400mg입니다",
+          
+        ]
+    },
+    labels[5]: {
+        'images': [
+            "https://img.danawa.com/prod_img/500000/231/686/img/1686231_1.jpg?_v=20220902124631",
+        
+        ],
+        'videos': [
+            "https://www.youtube.com/watch?v=dsnEPbYrims",
+          
+        ],
+        'texts': [
+            "핫식스의 카페인 함량은 62.5mg입니다.",
+            "대한민국 성인의 카페인 섭취 권고량은 하루 300~400mg입니다",
         ]
     }
+    
 }
 
 # 레이아웃 설정
