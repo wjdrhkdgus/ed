@@ -40,7 +40,7 @@ def display_left_content(image, prediction, probs, labels):
 
 def display_right_content(prediction, data):
     st.write("### 오른쪽: 동적 분류 결과")
-    cols = st.columns(3)
+    cols = st.columns(2)
 
     # 1st Row - Images
     for i in range(1):
